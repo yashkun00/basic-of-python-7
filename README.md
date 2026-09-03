@@ -1,4 +1,4 @@
-# OOP PART 2
+# OOPS Basics 
 
 1. Parameter vs argument
 2. self
