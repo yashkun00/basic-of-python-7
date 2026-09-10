@@ -2,7 +2,7 @@
 def deposit(amount):    # amount = parameter
     pass
 
-deposit(200)            # 200 = argument
+deposit(100)            # 100 = argument
 
 Parameter → variable that receives a value.
 Argument → actual value supplied.
@@ -25,7 +25,7 @@ name → "Max"
 
 
 3. Local vs Instance Attribute
-fee = 10          # local variable
+fee = 20          # local variable
 self.balance = 50 # instance attribute
 
 A local variable exists only within its function/method call.
