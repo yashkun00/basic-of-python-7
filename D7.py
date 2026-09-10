@@ -44,6 +44,8 @@ class Student:
     def __init__(self, name):
         self.name = name
 
+---x----x---
+
 Remember:
 
 Class variable      → belongs to CLASS
@@ -63,7 +65,7 @@ s1.school = "PQR"
 creates/sets an instance attribute for s1, which shadows the class attribute.
 
 
-
+#---x--x--x
 
 5. Attribute Lookup 🆕
 
