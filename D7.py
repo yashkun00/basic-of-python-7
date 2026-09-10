@@ -26,7 +26,7 @@ name → "Max"
 
 3. Local vs Instance Attribute
 fee = 20          # local variable
-self.balance = 50 # instance attribute
+self.balance = 25 # instance attribute
 
 A local variable exists only within its function/method call.
 
