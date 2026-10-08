@@ -2,7 +2,7 @@
 def deposit(amount):    # amount = parameter
     pass
 
-deposit(100)            # 100 = argument
+deposit(10)            # 10 = argument
 
 Parameter → variable that receives a value.
 Argument → actual value supplied.
