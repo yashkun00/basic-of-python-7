@@ -6,3 +6,4 @@
 4. Class Variables 🆕
 5. Attribute Lookup 🆕
 6. @classmethod and cls 🆕
+---
